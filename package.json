@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "react-tabs": "^3.2.3",
+    "styled-components": "^5.3.3"
+  }
+}
